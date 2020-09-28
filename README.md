@@ -2,6 +2,8 @@
 
 Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries used.
 
+A Website which contains all of the below projects : 
+
 <table>
   <tr>
     <td> <b> Project </b> </td>
