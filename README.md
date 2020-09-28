@@ -2,7 +2,11 @@
 
 Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries used.
 
-<table align="center">
+<table>
+  <tr>
+    <td> <b> Project </b> </td>
+    <td> <b> Demo </b> </td>
+  </tr>
   <tr>
     <td> <b> Currency Calculator </b> </td>
     <td> <a href="https://monicakorada.github.io/Currency-Calculator/"> View Demo </a> </td>
